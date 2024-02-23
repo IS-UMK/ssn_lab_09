@@ -2,8 +2,8 @@
 
 Zapoznaj się z zawartością notatnika Jupyter umieszczonego w repozytorium  i wykonaj zawarte w nim ćwiczenia.
 
-Notatnik: [cnn.ipynb](https://github.com/IS-UMK/ssn_23_lab_09/blob/master/cnn.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IS-UMK/ssn_23_lab_09/blob/master/cnn.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IS-UMK/ssn_23_lab_09/master?filepath=cnn.ipynb)
+Notatnik: [cnn.ipynb](https://github.com/IS-UMK/ssn_lab_09/blob/master/cnn.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IS-UMK/ssn_lab_09/blob/master/cnn.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IS-UMK/ssn_lab_09/master?filepath=cnn.ipynb)
 
 ---
 
