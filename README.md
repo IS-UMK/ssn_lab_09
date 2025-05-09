@@ -28,7 +28,7 @@ Struktura sieci wraz z wynikowymi rozmiarami map cech przedstawia poniższy rysu
 
 ![image.png](lenet5.png)
 
-Rozwiązanie w postaci notatnika Jupyter (``.ipynb``) lub skrypt w języku Python (``.py``) umieść w Moodle lub prześlij do repozytorium GitHub.
+Rozwiązanie w postaci notatnika Jupyter (``.ipynb``) lub skrypt w języku Python (``.py``) umieść w repozytorium GitHub.
 
 
 
